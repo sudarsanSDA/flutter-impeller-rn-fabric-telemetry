@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.packages
+.dart_tool/
+
+# Build caches & outputs
+build/
+android/app/build/
+.gradle/
+*.apk
+*.aab
+
+# OS scratchpads & logs
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.pyc
+*.pyo
+benchmark_harness/test_verify.csv
+
+# Academic Manuscript & LaTeX Files (Private - submitted directly to journal)
+manuscript/
