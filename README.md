@@ -32,12 +32,12 @@ All telemetry was captured on dedicated bare-metal Android smartphones:
 | :--- | :--- | :--- |
 | **Device Model** | Xiaomi Redmi Note 9 Pro (`curtana`) | Xiaomi POCO X6 Pro 5G (`duchamp` / `2311DRK48I`) |
 | **SoC** | Qualcomm Snapdragon 720G (8 nm LPP) | MediaTek Dimensity 8300-Ultra (TSMC 4 nm) |
-| **CPU Microarchitecture** | $2\times$ 2.3 GHz Kryo 465 Gold (Cortex-A76)<br>$6\times$ 1.8 GHz Kryo 465 Silver (Cortex-A55) | $1\times$ 3.35 GHz Cortex-A715 (Prime core)<br>$3\times$ 3.20 GHz Cortex-A715 (Performance)<br>$4\times$ 2.20 GHz Cortex-A510 (Efficiency) |
+| **CPU Microarchitecture** | 2× 2.3 GHz Kryo 465 Gold (Cortex-A76)<br>6× 1.8 GHz Kryo 465 Silver (Cortex-A55) | 1× 3.35 GHz Cortex-A715 (Prime core)<br>3× 3.20 GHz Cortex-A715 (Performance)<br>4× 2.20 GHz Cortex-A510 (Efficiency) |
 | **GPU** | Qualcomm Adreno 618 | ARM Mali-G615 MC6 |
 | **RAM** | 4 GB LPDDR4X | 8 GB LPDDR5X |
 | **Storage** | 64 GB UFS 2.1 | 256 GB UFS 4.0 |
 | **Operating System** | Android 12 (API Level 31) | Xiaomi HyperOS / Android 14 (API Level 34) |
-| **Display Budget** | $1080 \times 2400$ @ 60 Hz (16.67 ms deadline) | $1220 \times 2712$ @ 120 Hz (8.33 ms deadline) |
+| **Display Budget** | 1080 × 2400 @ 60 Hz (16.67 ms deadline) | 1220 × 2712 @ 120 Hz (8.33 ms deadline) |
 
 ---
 
